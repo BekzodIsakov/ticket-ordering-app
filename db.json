@@ -1,0 +1,41 @@
+{
+  "flights": [
+    {
+      "id": "4cbc",
+      "destination": "Tashkent",
+      "flyDate": "2024-12-16T19:00:00.000Z",
+      "returnDate": "2024-12-17T19:00:00.000Z",
+      "children": 0,
+      "seats": 1,
+      "userId": 1
+    },
+    {
+      "id": "2b98",
+      "destination": "Tashkent",
+      "flyDate": "2024-12-16T19:00:00.000Z",
+      "returnDate": "2024-12-17T19:00:00.000Z",
+      "children": 0,
+      "seats": 1,
+      "userId": 1
+    },
+    {
+      "id": "d1df",
+      "destination": "Tashkent",
+      "flyDate": "2024-12-16T19:00:00.000Z",
+      "returnDate": "2024-12-17T19:00:00.000Z",
+      "children": 0,
+      "seats": 1,
+      "userId": 1
+    },
+    {
+      "id": "85f6",
+      "destination": "Tashkent",
+      "flyDate": "2024-12-17T19:00:00.000Z",
+      "returnDate": "2024-12-18T19:00:00.000Z",
+      "children": 0,
+      "seats": 1,
+      "userId": 1
+    }
+  ],
+  "users": []
+}
